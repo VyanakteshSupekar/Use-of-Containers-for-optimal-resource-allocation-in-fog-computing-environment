@@ -1,0 +1,178 @@
+
+<owl:Class rdf:about="http://purl.oclc.org/NET/ssnx/meteo/aws#AneroidDisplacementTransducer">
+<rdfs:label>Sample Server Database</rdfs:label>
+<rdfs:comment>Sample</rdfs:comment>
+<rdfs:subClassOf><owl:Class rdf:about="http://purl.oclc.org/NET/ssnx/meteo/aws#AtmosphericPressureSensor"/>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty><owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#observes"/>
+</owl:onProperty>
+<owl:someValuesFrom><owl:Class rdf:about="http://purl.oclc.org/NET/ssnx/qu/dim#StressOrPressure"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#sensed reading 123"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#jTextField1"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#sensed reading 123"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading-Value -From-Device6-- 012"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#sensed reading 123"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#jTextField1"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#sensed reading 123"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Value-001"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#sensed reading 123"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#jTextField1"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#sensed reading 123"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Pressure-Value -From-Device6-- 012"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#sensed reading 123"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#jTextField1"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#sensed reading 123"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#value2"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#sensed reading 123"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#jTextField1"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#sensed reading 123"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Pressure-Value -From-Device6-- 012"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#sensed reading 123"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#jTextField1"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#sensed reading 123"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#pressorvalue-002"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#sensed reading 123"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#jTextField1"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#sensed reading 123"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Pressure-Value -From-Device6-- 012"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#sensed reading 123"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#jTextField1"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#sensed reading 123"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#sense value-896"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#sensed reading 123"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#jTextField1"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#sensed reading 123"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Pressure-Value -From-Device6-- 012"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#sensed reading 123"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#jTextField1"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#sensed reading 123"/>
+</owl:someValuesFrom>
+<owl:someValuesFrom><owl:Class rdf:about=http:\purl.oclc.org/NET/ssnx/qu/dim#Reading Value is -- 1021"/>
+</owl:someValuesFrom>
+</owl:Restriction>
+</rdfs:subClassOf>
+<dc:source>
+skos:closeMatch aneroid displacement transducer [CIMO Guide 3.3.1] 
+http://www.wmo.int/pages/prog/www/IMOP/publications/CIMO-Guide/CIMO%20Guide%207th%20Edition,%202008/Part%20I/Chapter%203.pdf
+</dc:source>
+</owl:Class>
+
